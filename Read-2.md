@@ -1,0 +1,1 @@
+**By running the 'git remote' command we can view short names, and by using 'git remote -v' we can view all the remote URLs next to their short names.**
