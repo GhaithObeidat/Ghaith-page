@@ -1,0 +1,3 @@
+# What is Markdown?
+ 
+  *Markdown is a way to style text on the web, adding images and creating lists, all of that can be applied tp the GitHub platform with extensions of '.md' or '.markdown'. there's also a syntax guide that can be used in GitHub text files. Also there are some other features which provided by GitHub Flavored Markdown 'GFM' such as; syntax highlighting, task lists, mentions and emojis and some more features provided with GFM.*
