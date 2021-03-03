@@ -11,3 +11,9 @@
 **Profile link:**
 [GitHub](https://github.com/GhaithObeidat)
 
+| Contents |
+| -------- |
+| Page name |
+| Growh mindset briefly |
+| Self reminders of how to keep in growth mindset |
+| Info about the author and link to profile |
