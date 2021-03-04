@@ -11,9 +11,9 @@
 **Profile link:**
 [GitHub](https://github.com/GhaithObeidat)
 
-| Contents |
-| -------- |
-| Page name |
-| Growh mindset briefly |
-| Self reminders of how to keep in growth mindset |
-| Info about the author and link to profile |
+| Contents | Repo links |
+| -------- |------------|
+| Growth mindset | [growth mindset](https://ghaithobeidat.github.io/Reading-note/) |
+| HTML layout | [Html layout](https://ghaithobeidat.github.io/Reading-note/Read03) |
+| What is Markdown | [What is Markdown](https://ghaithobeidat.github.io/Reading-note/MD) |
+| What is JavaScript | [What is JavaScript](https://ghaithobeidat.github.io/Reading-note/Read04-1) |
