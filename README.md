@@ -11,9 +11,35 @@
 **Profile link:**
 [GitHub](https://github.com/GhaithObeidat)
 
+# Code 102 Reading Notes
 | Contents | Repo links |
 | -------- |------------|
 | Growth mindset | [growth mindset](https://ghaithobeidat.github.io/Reading-note/) |
 | HTML layout | [Html layout](https://ghaithobeidat.github.io/Reading-note/Read03) |
 | What is Markdown | [What is Markdown](https://ghaithobeidat.github.io/Reading-note/MD) |
 | What is JavaScript | [What is JavaScript](https://ghaithobeidat.github.io/Reading-note/Read04-1) |
+|CSS | [CSS](https://ghaithobeidat.github.io/Reading-note/CSS)|
+|Summary| [Summary](https://ghaithobeidat.github.io/Reading-note/Read4C)|
+|Computers|[Computers](https://ghaithobeidat.github.io/Reading-note/Computers)|
+|Loops|[Loops](https://ghaithobeidat.github.io/Reading-note/Loops)|
+
+
+# Code 201 Reading Notes
+|Contents|Repo links|
+|--------|----------|
+|    Class-01     | [Class-01](https://ghaithobeidat.github.io/Reading-note/class-01)         |
+|         |          |
+|         |          | 
+|         |          |
+|         |          |
+|         |          |
+|         |          | 
+|         |          |
+|         |          |
+|         |          |
+|         |          | 
+|         |          |
+|         |          |
+|         |          |
+|         |          | 
+
